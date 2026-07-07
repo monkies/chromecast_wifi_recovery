@@ -4,6 +4,9 @@ A small Python script to configure a factory-reset Chromecast onto a Wi-Fi netwo
 
 This script is intended for newer Chromecast firmware that exposes setup endpoints over HTTPS on port `8443`.
 
+Based on the steps documented here.
+https://emcot.world/How_To_Connect_a_Gen_1_H2G2_42_Chromecast_Without_Google_Home
+
 ## What it does
 
 The script automates the manual Chromecast setup flow:
